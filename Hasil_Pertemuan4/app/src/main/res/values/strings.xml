@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hasil_Pertemuan4</string>
+    <string name="string_nomer_telphone">Masukkan NomerHandphone</string>
+    <string name="string_open_nomer">Open</string>
+    <string name="string_share_text">Share Text</string>
+    <string name="string_masukkan_text">Masukkan Text</string>
+    <string name="string_open_location">Open</string>
+    <string name="string_buka_lokasi">Buka Lokasi</string>
+    <string name="string_open_browser">Open</string>
+    <string name="string_masukkan_url">Masukkan Url</string>
+    </resources>
